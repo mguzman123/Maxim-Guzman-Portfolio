@@ -40,6 +40,7 @@ The first, main part of the a grand prix weekend is qualifying. This is arguably
 The way qualifying works is that, in the first round, the slowest five drivers are eliminated and hold positions 16-20. In the second round, the next five slowest drivers are also disqualified and hold positions 15-11. In the third, final qualifying round, the last 10 drivers fight for pole (first) position. A drivers grid positioning (starting position) is directly determined by qualifying.
 
 ![](images/f1_dif_grid_image.png)
+
 ![](images/f1_grid_win_image.png)
 
 Hamilton began ahead of Alonso in 10 out of 17 times which conveys him as a better driver in this metric; and someone the sponors can expect to, accordingly, deliver better results. We can also confirm that, the farther up the line a driver starts, the more likely they are to win the race.
@@ -58,6 +59,7 @@ The two teammates drive identical vehicles so any discrepancies in lap times tru
 
 
 ![](images/f1_dif_flap_speed_image.png)
+
 ![](images/f1_dif_flap_time_image.png)
 
 Alonso barely outperforms Hamilton in terms of fastest lap speed, where he was able to push the car faster in 9 out of 17 races. Conversely, when looking at median lap times, Hamilton is faster in 9 of the races (they have equivalent times for the first race). These findings make it a bit difficult to judge who truly has more talent; although, the faster median lap times indicates the ability for Hamilton to deliver consistent results.
@@ -68,12 +70,14 @@ Alonso barely outperforms Hamilton in terms of fastest lap speed, where he was a
 Somehow, both Hamilton and Alonso had identical stats in terms of number of wins, podiums, and points. However, we can run a more in-depth analysis to extract and subtle distinctions.
 
 ![](images/f1_dif_pts_image.png)
+
 ![](images/f1_pts_table.PNG)
 
 Alonso scored more points than Hamilton did in the majority of races, indicating that he's more consistent. However, Hamilton's median points were higher. Overall, Alonso seems to be a bit superior in this realm and he comes across more dependable. This, as mentioned before, is important to us sponsors; we don't want a driver who will be all over the place. We want someone we can count on day in and day out.
 
 
 ![](images/f1_dif_pos_image.png)
+
 ![](images/f1_pos_table.PNG)
 
 As expected, Alonso finished ahead of Hamilton ten times, which is what we saw with the points comparison. Yet, Hamilton put up more favorable statistics here. So, once looking at the nuances, Hamilton is more talented in terms of finishing position. As Hamilton has mostly performed better in previous metrics, this eases the sponsorship decision slightly.
