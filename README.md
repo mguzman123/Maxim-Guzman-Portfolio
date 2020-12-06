@@ -96,6 +96,6 @@ Therefore, Hamilton does seem to have more potential as a driver as he is alread
 
 ### References
 
-1. [Wikipedida French Grand Prix](https://en.wikipedia.org/wiki/2007_French_Grand_Prix)
-2. [Wikipedida Hungarian Grand Prix](https://en.wikipedia.org/wiki/2007_Hungarian_Grand_Prix)
+1. [Wikipedida 2007 French Grand Prix](https://en.wikipedia.org/wiki/2007_French_Grand_Prix)
+2. [Wikipedida 2007 Hungarian Grand Prix](https://en.wikipedia.org/wiki/2007_Hungarian_Grand_Prix)
 3. [Wikipedida F1 World Championship](https://en.wikipedia.org/wiki/2007_Formula_One_World_Championship)
