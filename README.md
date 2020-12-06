@@ -86,9 +86,16 @@ Hamilton better maintained his grid positioning throuhgout the race to the end o
 
 Hamilton outperformed Alonso in qualifying, grid positioning, driving consistency, lap time performance, and final positioning. Alonso was supeior in lap speed performance, points earned, and improving positioning from the beginning of race.
 
+### Sponorship Choice
+
+Even though Hamilton was the better driver more often, we have to remember it was never a landslide. Furthermore, while it's very difficult to come with exact numbers, each criterion don't carry the same weights. For instance, Alonso's ability to gain more positions throughout a race is probably more valued than Hamilton's ability to defend his position.
+
+However, we do have to remember that this is Hamlton's rookie season while Alonso has been around for a few years. We saw that drivers do tend to perform better with more experience.
+
+Therefore, Hamilton does seem to have more potential as a driver as he is already peforming at the same level as Alonso and hasn't had any previous experience in F1. Taking this and all the other analyses into account, as a sponsor, Hamilton sounds like the better choice and the driver we plan to sponsor in the 2008 season
 
 ### References
 
-1. https://en.wikipedia.org/wiki/2007_French_Grand_Prix
-2. https://en.wikipedia.org/wiki/2007_Hungarian_Grand_Prix
-3. https://en.wikipedia.org/wiki/2007_Formula_One_World_Championship
+1. [Wikipedida French Grand Prix](https://en.wikipedia.org/wiki/2007_French_Grand_Prix)
+2. [Wikipedida Hungarian Grand Prix](https://en.wikipedia.org/wiki/2007_Hungarian_Grand_Prix)
+3. [Wikipedida F1 World Championship](https://en.wikipedia.org/wiki/2007_Formula_One_World_Championship)
