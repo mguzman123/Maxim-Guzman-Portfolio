@@ -84,7 +84,7 @@ Out of the 10 races Alonso finished ahead of Hamilton, he managed to make the ma
 Overall, Alonso seems to be a bit more of a skilled driver in terms of points won as he outperformed Hamilton more often; and that paired with the smaller variation in points displays him as a more dependable driver. However, we mustn't discount Hamilton's ability to stand out more when he does dominate.
 
 
-![](images/f1_dif_pos_image_newest.png)
+![](images/f1_dif_pos_image_newest.PNG)
 ![](images/f1_pos_table_new.PNG)
 
 When it comes to final positioning, we can see that Alonso, again, finished ahead of Hamilton 10 times. This is consistent with what we saw in terms of how often Alonso scored more points than Hamilton. 
