@@ -77,6 +77,8 @@ It seems that each driver had an opportunity to shine in each category and puts 
 Somehow, both Hamilton and Alonso had identical stats in terms of number of wins, podiums, and points. However, we can run a more in-depth analysis to extract and subtle distinctions.
 
 ![](images/f1_dif_pts_image.png)
+
+
 ![](images/f1_pts_table.PNG)
 
 Out of the 10 races Alonso finished ahead of Hamilton, he managed to make the margin over 2 points in 3 of the races. We'll take a closer look in the next section but this meant Alonso only finished a single, at most two, position(s) ahead of Hamilton - usually 1st vs 2nd/2nd vs 3rd. In contrast, Hamilton had 5 occasions where he scored over two points than Alonso in the 7 races he finished better. This means that while Hamilton was less frequent in winning more points, he was able to outperform Alonso to a greater extent.
@@ -85,6 +87,8 @@ Overall, Alonso seems to be a bit more of a skilled driver in terms of points wo
 
 
 ![](images/f1_dif_pos_image_newest.PNG)
+
+
 ![](images/f1_pos_table_new.PNG)
 
 When it comes to final positioning, we can see that Alonso, again, finished ahead of Hamilton 10 times. This is consistent with what we saw in terms of how often Alonso scored more points than Hamilton. 
