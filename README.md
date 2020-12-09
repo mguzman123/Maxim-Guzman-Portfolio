@@ -44,7 +44,7 @@ We can see from the graph above that, since grid positioning is directly influen
 
 ![](images/f1_dif_grid_image.png)
 
-Alonso and Hamilton always started in the top 10, meaning they always had a chance to fight for a podium position (the [complete notebook](https://github.com/mguzman123/Formula-1-Analysis/blob/main/notebooks/05_01_hamilton_alonso_analyze.ipynb) ) goes into detail about the events leading up to grid positioning). Furthermore, with the exception of two races, Alonso was always began in the top 5. Meanwhile, Hamilton started in the top 5 all but one time. The farther up the grid you are, the more significant a position difference is when it comes to winning. Therefore, any time one McLaren driver begins ahead of the other is very significant.
+Alonso and Hamilton always started in the top 10, meaning they always had a chance to fight for a podium position (the [complete notebook](https://github.com/mguzman123/Formula-1-Analysis/blob/main/notebooks/05_01_hamilton_alonso_analyze.ipynb) goes into detail about the events leading up to grid positioning). Furthermore, with the exception of two races, Alonso was always began in the top 5. Meanwhile, Hamilton started in the top 5 all but one time. The farther up the grid you are, the more significant a position difference is when it comes to winning. Therefore, any time one McLaren driver begins ahead of the other is very significant.
 
 Overall, throughout the course of the season, Hamilton started 10 positions ahead of Alonso. Showing that, while both drivers are very fast, Hamilton is slightly, and critically, able to edge out Alonso in the end.
 
