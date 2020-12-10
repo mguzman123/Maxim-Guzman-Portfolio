@@ -62,7 +62,7 @@ Looking at the standard deviation visualization, we can see that Hamilton has mo
 This next section explores how much performance each driver can extract from the car. The two vehicles are identical from an engineering standpoint and any differences in speed therefore comes from the skill of the driver itself. This is a great way for a sponsor to get an idea of which driver is superior. Here, we'll explore each drivers' top speeds and lap times. Clearly, faster lap speeds and shorter lap times indicates more innate skill in the driver.
 
 
-![](images/f1_dif_flap_speed_image.png)
+![](images/f1_dif_flap_speed_image_new.png)
 
 Alonso barely defeats Hamilton in the fastest lap speed criteria, where he was able to push the car faster than Hamilton in 9 out of 17 races. However, with the exception of a few races, the drivers were neck-and-neck, usually within half a km/hr of each other. In the Chinese Grand Prix, Hamilton actually faced some tire and pit stop issues and had to retire from the race. This can help explain the great discrepancy in speed here, which isn't totally due to the driving of Hamilton. Overall, Alonso was faster by about 4.6 km/hr throughout the whole season.
 
