@@ -1,5 +1,5 @@
 # Maxim's Portfolio
-Portfolio of various data-oriented projects!
+Portfolio of Data Projects
 
 # [Project 1: Formula-1-Analysis](https://github.com/mguzman123/Formula-1-Analysis)
 
