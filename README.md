@@ -42,7 +42,7 @@ To assess who performs better in qualifying, we can observe their starting grid 
 
 We can see from the graph above that, since grid positioning is directly influenced by qualifying, that the better one qualifies, the better they'll finish at the end of the race. This highlights the significance of qualifying well.
 
-![](images/f1_dif_grid_image.png)
+![](images/f1_dif_grid_image_new.png)
 
 Alonso and Hamilton always started in the top 10, meaning they always had a chance to fight for a podium position (the [complete notebook](https://github.com/mguzman123/Formula-1-Analysis/blob/main/notebooks/05_01_hamilton_alonso_analyze.ipynb) goes into detail about the events leading up to grid positioning). Furthermore, with the exception of two races, Alonso was always began in the top 5. Meanwhile, Hamilton started in the top 5 all but one time. The farther up the grid you are, the more significant a position difference is when it comes to winning. Therefore, any time one McLaren driver begins ahead of the other is very significant.
 
@@ -86,7 +86,7 @@ Out of the 10 races Alonso finished ahead of Hamilton, he managed to make the ma
 Overall, Alonso seems to be a bit more of a skilled driver in terms of points won as he outperformed Hamilton more often; and that paired with the smaller variation in points displays him as a more dependable driver. However, we mustn't discount Hamilton's ability to stand out more when he does dominate.
 
 
-![](images/f1_dif_pos_image_newest.PNG)
+![](images/f1_dif_pos_image_newest2.PNG)
 
 
 ![](images/f1_pos_table_new.PNG)
