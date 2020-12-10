@@ -32,7 +32,7 @@ Below is a high-level summary of the analysis conducted to choose which driver t
 
 Alonso is four years older than Hamilton and has been around several years longer than the rookie. Because Alonso is older and more experienced, it is more likely that drivers around his age perform better than those around Hamilton's age.
 
-![](images/f1_age_image_new.png)
+![](images/f1_age_image_newest2.png)
 
 ### Qualifying/Grid Positioning 
 
