@@ -112,7 +112,7 @@ Even though Hamilton was the better driver more often, we have to remember it wa
 
 We also have to remember that this is Hamilton's rookie season while Alonso has been around for a few years. We saw that drivers do tend to perform better with more experience.
 
-Therefore, Hamilton has more potential as a driver as he is already performing at the same level as Alonso, a 2x world chamption, and hasn't had any previous experience in F1. Taking this and all the other analyses into account, as a sponsor, Hamilton is the better choice and the driver we plan to sponsor in the 2008 season
+Therefore, Hamilton has more potential as a driver as he is already performing at the same level as Alonso, a 2x world champion, and hasn't had any previous experience in F1. Taking this and all the other analyses into account, as a sponsor, Hamilton is the better choice and the driver we plan to sponsor in the 2008 season.
 
 ### References
 
