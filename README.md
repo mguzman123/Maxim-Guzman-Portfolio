@@ -68,7 +68,7 @@ Alonso barely defeats Hamilton in the fastest lap speed criteria, where he is ab
 
 ![](images/f1_dif_flap_time_image.png)
 
-Both Hamilton and Alonso have equivalent median lap times for the first race of the season. Beyond that, Hamilton has a quicker median lap time in 9 out of 16 races. Furthermore, the net difference favors Hamilton by about 2.8 seconds. For the most part, when Hamilton is faster than Alonso, he's significantly faster. In contrast, Alonso rarely dusts his teammates when he is the quicker driver.
+Both Hamilton and Alonso have equivalent median lap times for the first race of the season. Beyond that, Hamilton has a quicker median lap time in 9 out of 16 races. Furthermore, the net difference favors Hamilton by about 2.8 seconds. For the most part, when Hamilton is faster than Alonso, he's significantly faster. In contrast, Alonso rarely dusts his teammate when he is the quicker driver.
 
 Each driver had an opportunity to shine in each category and this puts them head-to-head in pure driving skill.
 
