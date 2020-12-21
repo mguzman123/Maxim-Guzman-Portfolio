@@ -1,5 +1,4 @@
 # Maxim's Portfolio
-Portfolio of Data Projects
 
 ## Formula 1
 
