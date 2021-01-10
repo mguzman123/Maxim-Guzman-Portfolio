@@ -6,5 +6,8 @@ Determining the winner of the annual series works through a point system. The cu
 
 You can read more about the Grand Prix format [here](https://www.tutorialspoint.com/formula_one/formula_one_grand_prix_format.htm).
 
-### [__Driver Comparison__](https://nbviewer.jupyter.org/github/mguzman123/Maxim-Guzman-Portfolio/blob/0a8f4a76ae2257ed32e1e4324acb381045ddc580/notebooks/McLaren%202007%20-%20Lewis%20Hamilton%20vs%20Fernando%20Alonso.ipynb)
+### [__1. Driver Comparison__](https://nbviewer.jupyter.org/github/mguzman123/Maxim-Guzman-Portfolio/blob/0a8f4a76ae2257ed32e1e4324acb381045ddc580/notebooks/McLaren%202007%20-%20Lewis%20Hamilton%20vs%20Fernando%20Alonso.ipynb)
 We use different metrics to evaluate if Lewis Hamilton or Fernando Alonso performed at a higher level during the 2007 season. Hamilton triumphed over Alonso since he started towards first more often, drove quicker during the race, and finished in superior positions.
+
+### [__2. Partnership Decision__](https://nbviewer.jupyter.org/github/mguzman123/Maxim-Guzman-Portfolio/blob/main/notebooks/Partnership%20-%20McLaren%20vs.%20Ferrari.ipynb)
+We take the point of view of an tech company specializing in IT looking to partner with Ferrari or McLaren in the 2008 season. We decided to partner with Ferrari because they won more races, drove quicker, and had better engineering capabilities.
