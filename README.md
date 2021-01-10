@@ -10,4 +10,4 @@ You can read more about the Grand Prix format [here](https://www.tutorialspoint.
 We use different metrics to evaluate if Lewis Hamilton or Fernando Alonso performed at a higher level during the 2007 season. Hamilton triumphed over Alonso since he started towards first more often, drove quicker during the race, and finished in superior positions.
 
 ### [__2. Partnership Decision__](https://nbviewer.jupyter.org/github/mguzman123/Maxim-Guzman-Portfolio/blob/main/notebooks/Partnership%20-%20McLaren%20vs.%20Ferrari.ipynb)
-We take the point of view of a tech company specializing in IT looking to partner with Ferrari or McLaren in the 2008 season. We decided to partner with Ferrari because they won more races, drove quicker, and had better engineering capabilities.
+We take the point of view of a tech company specializing in IT looking to partner with Ferrari or McLaren in the 2018 season. We decided to partner with Ferrari because they won more races, drove quicker, and had better engineering capabilities.
